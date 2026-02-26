@@ -108,7 +108,7 @@ const personagem6 = {
             + "Arma Secundária:" + this.armaSecundária + "\n"
             + "Nível de força:" + this.forca + "\n"
             + "Nível de velocidade:" + this.velocidade + "\n"
-            + "Nível de resistência:" + this.resistencia + "\n"    
+            + "Nível de resistência:" + this.resistencia + "\n PE"    
         }
 }
 
