@@ -1,2 +1,2 @@
 # RI1
-1ª Atividade Técnica de Programação
+Repositório para a 1ª Atividade de Técnica de Programação - 2DSM FATEC 2026-2
